@@ -6,7 +6,7 @@
 Thumbs.db
 
 .env
-env_template.txt
+example.env
 
 *.md
 *.pdf

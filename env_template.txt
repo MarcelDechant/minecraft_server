@@ -1,0 +1,11 @@
+
+Determine the number of players
+MAX_PLAYERS=10
+
+Starting value of world generation
+LEVEL_SEED=4025804172371830787
+
+
+
+Sets the visibility in chunks.
+VIEW_DISTANCE=10

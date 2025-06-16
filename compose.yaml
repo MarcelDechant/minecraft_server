@@ -4,14 +4,13 @@ services:
   mc-server:
     build: .
     
-
     ports:
       - 8888:25565
     
-
     volumes:
       - minecraft-server-volume:/app
     restart: on-failure
+    env_file: .env
 
 volumes:
   minecraft-server-volume:

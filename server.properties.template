@@ -1,0 +1,23 @@
+
+## Server Security
+
+# If you want only specific players to access the server, enable the whitelist.
+# white-list=true
+
+
+## World and biome settings
+
+# Sets the starting value for the world.
+level-seed=${LEVEL_SEED}
+           
+
+# This determines the server-side viewing distance.
+# 10 is the default/recommended value - a lower value saves resources.
+view-distance=${VIEW_DISTANCE}
+
+
+## Game mechanics
+
+# The maximum number of players that can play on the server at the same time.
+# 20 is the default value. The fewer players play, the better the performance at low resources.
+max-players=${MAX_PLAYERS}

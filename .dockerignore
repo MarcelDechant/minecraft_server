@@ -1,0 +1,17 @@
+
+.git
+.gitignore
+*.swp
+.DS_Store
+Thumbs.db
+
+.env
+example.env
+
+*.md
+*.pdf
+*.png
+
+checklist.pdf
+nice_seeds.md
+ServerStatus.png
